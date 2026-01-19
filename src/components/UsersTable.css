@@ -1,0 +1,31 @@
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 16px;
+  background-color: #020617;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+th {
+  background-color: #020617;
+  color: #94a3b8;
+  font-weight: 600;
+  text-align: left;
+  padding: 12px;
+  border-bottom: 1px solid #1e293b;
+}
+
+td {
+  padding: 12px;
+  border-bottom: 1px solid #1e293b;
+}
+
+tr:hover {
+  background-color: #020617;
+}
+
+.actions button {
+  margin-right: 6px;
+}
